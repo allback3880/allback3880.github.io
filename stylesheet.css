@@ -10,11 +10,8 @@ body{
   margin:0 20px 0 20px;
 }
 
-header{
-  background-color: beige;
-  color: darkolivegreen;
-}
-
 .header-left{
   float:left;
+  background-color: beige;
+  color: darkolivegreen;
 }
