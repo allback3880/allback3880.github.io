@@ -15,6 +15,6 @@ header{
   color: darkolivegreen;
 }
 
-header .h1{
+.header-left{
   float:left;
 }
