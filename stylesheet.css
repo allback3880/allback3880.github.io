@@ -11,8 +11,10 @@ body{
 }
 
 header{
-  float:left;
   background-color: beige;
   color: darkolivegreen;
 }
 
+header .h1{
+  float:left;
+}
