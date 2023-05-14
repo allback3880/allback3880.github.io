@@ -16,10 +16,16 @@ body{
   color: darkolivegreen;
 }
 
+
+
 .main{
   float:left;
 
 }
 
-
+.header-left h1{
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 8%;
+}
 
