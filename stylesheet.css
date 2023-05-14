@@ -7,19 +7,30 @@ p{
 }*/
 
 body{
-  margin:0 100px 0 100px;
+}
+
+header{
+    height: 50px;
+    width: auto;
+    background-color: beige;
 }
 
 .header-left{
   float:left;
-  background-color: beige;
   color: darkolivegreen;
+  
 }
 
 
 
-.main{
-  float:left;
+.header-left img{
+    width: 48px;
+    float: left;
+}
+
+
+main{
+    margin:0 100px 0 100px;
 
 }
 
@@ -27,5 +38,9 @@ body{
   border-width: 1px;
   border-style: solid;
   border-radius: 8px;
+  margin: 0px 105px 0px 105px;
 }
 
+.Art img{
+    width: 300px;px;
+}
